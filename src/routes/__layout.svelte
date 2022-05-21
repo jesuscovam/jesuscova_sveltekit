@@ -16,7 +16,7 @@
 </main>
 <footer class="w-full bg-black pt-10 text-center pb-5">
 	<a
-		href="https://github.com/jesuscovam/jesuscova-svelte"
+		href="https://github.com/jesuscovam/jesuscova_sveltekit"
 		target="_blank"
 		class="text-sky-400 underline"
 	>
