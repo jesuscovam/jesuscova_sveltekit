@@ -20,7 +20,7 @@
 </script>
 
 <section class="w-full">
-	<h2 class="text-lg font-bold">BEATS</h2>
+	<h2 class="text-lg font-bold text-white">BEATS</h2>
 	<div class="mt-4">
 		{#each songs as { title, src }}
 			<div class="mt-2 flex flex-col space-y-2">

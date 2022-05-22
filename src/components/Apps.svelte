@@ -10,7 +10,7 @@
 			url: 'https://slissto.com'
 		},
 		{
-			url: 'https://jesuscova.com'
+			url: 'https://nfts.jesuscova.com'
 		}
 	];
 
